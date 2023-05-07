@@ -8,7 +8,7 @@ import Popup from 'reactjs-popup';
 function MyApp() {
   return (
     <div class="btn-group">
-    <div class="mypage">My Page</div>
+    <div class="mypage">Friend Sync</div>
     <div class="friendslist">Friends List</div>
       
     {/* <a href="second.html"><Button class="button" variant="contained"></Button></a>
